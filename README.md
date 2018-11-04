@@ -1,2 +1,2 @@
 # kiaa
-Implementacije nekih od algoritama
+Implementacije nekih od algoritama sa predmeta Konstrukcija algoritama
